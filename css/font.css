@@ -1,0 +1,12 @@
+@font-face {
+  font-family: arial, sans-serif;
+  src: url("../fonts/arial.ttf") format("truetype"), url("../fonts/arial.eot") format("eot"), url("../fonts/arial.otf") format("otf"), url("../fonts/arial.woff") format("woff"), url("../fonts/arial.woff2") format("woff2"), url("../fonts/arial.svg#arial") format("svg");
+}
+@font-face {
+  font-family: Lato, sans-serif;
+  src: url("../fonts/Lato.ttf") format("truetype"), url("../fonts/Lato.eot") format("eot"), url("../fonts/Lato.otf") format("otf"), url("../fonts/Lato.woff") format("woff"), url("../fonts/Lato.woff2") format("woff2"), url("../fonts/Lato.svg#Lato") format("svg");
+}
+@font-face {
+  font-family: SegoeUI, sans-serif;
+  src: url("../fonts/SegoeUI.ttf") format("truetype"), url("../fonts/SegoeUI.eot") format("eot"), url("../fonts/SegoeUI.otf") format("otf"), url("../fonts/SegoeUI.woff") format("woff"), url("../fonts/SegoeUI.woff2") format("woff2"), url("../fonts/SegoeUI.svg#arial") format("svg");
+}
